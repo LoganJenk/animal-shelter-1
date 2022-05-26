@@ -1,4 +1,13 @@
-.column {
+.my-class {
+  width: 100%;
+  border: 2px solid purple;
+  padding: 500px;
+  background-color: orange;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+  .column {
   float: left;
   width: 33.33%;
   padding: 50px;
@@ -17,6 +26,7 @@ h1 {
   font-style: italic;
   color: plum;
 }
+
 h2 {
   text-align: center;
 }
