@@ -3,4 +3,22 @@
   width: 33.33%;
   padding: 50px;
   font-size: 16px;
+  background-color: rgb(196, 196, 235);
 }
+
+h1 {
+  font-size: 24;
+  text-align: center;
+  color: purple;
+}
+
+.important h1 {
+  font-size: 18;
+  font-style: italic;
+  color: plum;
+}
+h2 {
+  text-align: center;
+}
+
+
