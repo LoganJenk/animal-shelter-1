@@ -1,7 +1,10 @@
+body {
+  background-color: darkolivegreen;
+}
 h1 {
   font-size: 24;
   text-align: center;
-  color: purple;
+  color: plum
 }
 h2 {
   text-align: center;
@@ -29,8 +32,9 @@ img {
   width: 400px;
   float: left;
   padding: 50px;
+  margin: 8px 20px;
   font-size: 16px;
-  background-color: rgb(196, 196, 235);
+  background-color: rgba(165, 132, 42, 0.842);
   box-sizing: border-box;
 }
 .important h1 {
