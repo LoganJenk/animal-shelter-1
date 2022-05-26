@@ -1,31 +1,40 @@
-.my-class {
-  width: 100%;
-  border: 2px solid purple;
-  padding: 500px;
-  background-color: orange;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  box-sizing: border-box;
-}
-  .column {
-  float: left;
-  width: 33.33%;
-  padding: 50px;
-  font-size: 16px;
-  background-color: rgb(196, 196, 235);
-}
 h1 {
   font-size: 24;
   text-align: center;
   color: purple;
+}
+h2 {
+  text-align: center;
+}
+img {
+  margin: auto;
+  height: auto;
+  width: 90%;
+  display: block;
+}
+.main {
+  display: flex;
+  justify-content: center;
+}
+.my-class {
+  width: 100%;
+  border: 2px solid purple;
+  padding: 500px;
+  background-color: rgb(235, 167, 43);
+  margin-top: 20px;
+  margin-bottom: 20px;
+  box-sizing: border-box;
+}
+.column {
+  width: 400px;
+  float: left;
+  padding: 50px;
+  font-size: 16px;
+  background-color: rgb(196, 196, 235);
+  box-sizing: border-box;
 }
 .important h1 {
   font-size: 18;
   font-style: italic;
   color: plum;
 }
-h2 {
-  text-align: center;
-}
-
-
