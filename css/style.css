@@ -1,5 +1,5 @@
 body {
-  background-color: darkolivegreen;
+  background-color:olive;
 }
 h1 {
   font-size: 24;
@@ -41,4 +41,10 @@ img {
   font-size: 18;
   font-style: italic;
   color: plum;
+}
+.dark-background { 
+  background-color: darkblue;
+}
+.light-background {
+  background-color: skyblue;
 }
