@@ -20,7 +20,7 @@ img {
   justify-content: center;
 }
 .my-class {
-  width: 100%;
+  width: 100;
   border: 2px solid purple;
   padding: 500px;
   background-color: rgb(235, 167, 43);
